@@ -8,9 +8,12 @@
 
     <ImageView
         android:id="@+id/splashLogo"
-        android:layout_width="295dp"
-        android:layout_height="270dp"
-        android:background="@drawable/feature"
+        android:layout_width="239dp"
+        android:layout_height="219dp"
+        android:layout_marginStart="32dp"
+        android:background="@drawable/shopping_cart"
+        android:rotation="6"
+        android:rotationX="6"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
